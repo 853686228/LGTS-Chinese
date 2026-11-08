@@ -1,0 +1,9 @@
+# Python 依赖（仅“从游戏提取数据/翻译检查”需要；只构建插件+补丁则不需要）
+#
+#   python -m pip install -r requirements.txt
+#
+# 说明：UnityPy 依赖较多（图片/音频解码等），本项目只用到其中的包读取与
+#       MonoBehaviour 解码，安装失败时至少需要保证：
+#       UnityPy、lz4、brotli、fsspec、attrs、tpk_ar、TypeTreeGeneratorAPI 安装成功。
+UnityPy==1.25.4
+TypeTreeGeneratorAPI==0.0.10

@@ -1,0 +1,191 @@
+enUS	zh
+ROUND {currentRound + 1}	第 {currentRound + 1} 回合
+Collection modified while iterating over it.	Collection modified while iterating over it.
+Disables events that fail verification	Disables events that fail verification
+Earn all trophies/achievements.	赢得全部奖杯/成就。
+How long does it stay disabled after interacting, so to avoid continuous interaction spamming.	How long does it stay disabled after interacting, so to avoid continuous interaction spamming.
+Non-negative number required.	Non-negative number required.
+Page Position doesn't exist	Page Position doesn't exist
+The queue is empty.	The queue is empty.
+balloon type to display over the NPCs, if none nothing will be displayed	balloon type to display over the NPCs, if none nothing will be displayed
+down_pose	down_pose
+is not a valid love interest	is not a valid love interest
+left_pose	left_pose
+right_pose	right_pose
+toasts in queue	toasts in queue
+up_pose	up_pose
+was not found	was not found
+#{(int)c.r:X2}{(int)c.g:X2}{(int)c.b:X2}	#{(int)c.r:X2}{(int)c.g:X2}{(int)c.b:X2}
+**{emoteClip.emoji}**	**{emoteClip.emoji}**
+<b>DATE</b>	<b>日期</b>
+<b>TIME</b>	<b>时间</b>
+<color=green><b>No character with given name!</b></color>	<color=green><b>No character with given name!</b></color>
+AAA - descend	AAA - descend
+AAA - opacity	AAA - opacity
+Achieve all seven (7) hearts with any Romantic Interest.	与任意恋爱对象达成全部七（7）颗爱心。
+Achieve five (5) hearts with any Romantic Interest.	与任意恋爱对象达成五（5）颗爱心。
+Achieve five hearts with someone.	与某人达成五颗爱心。
+Achieve maximum Suspicion and watch the ensuing cutscene.	将疑心升至最高，并观看随后的过场动画。
+Achieve one (1) heart with any Romantic Interest.	与任意恋爱对象达成一（1）颗爱心。
+Achieve one heart with someone.	与某人达成一颗爱心。
+Adjust Collider to Area	Adjust Collider to Area
+Amount of time to show icon when attempting to use lantern without matches.	Amount of time to show icon when attempting to use lantern without matches.
+Attend the Walpurgis Festival.	参加瓦尔普吉斯庆典。
+Base=default&Mouth=default&Eyes=default&Torso=none&Eyebrows=default	Base=default&Mouth=default&Eyes=default&Torso=none&Eyebrows=default
+Bear witness to Elise and Freya's fate.	见证伊莉丝与芙蕾雅的命运。
+Bear witness to Elise and Lebkuchen's fate.	见证伊莉丝与莱布库亨的命运。
+Bear witness to Elise and Rozenmarine's fate.	见证伊莉丝与罗森玛琳的命运。
+Beat the Cursed Chop Chop Chop minigame.	通关被诅咒的「剁剁剁」小游戏。
+Beat the Cursed Raining Apples minigame.	通关被诅咒的「苹果雨」小游戏。
+Become one with Rozenmarine.	与罗森玛琳合而为一。
+Bring Rozenmarine along for a chore.	带上罗森玛琳一起干活。
+Bucket # {bucket}	水桶 # {bucket}
+Button.onClick	Button.onClick
+Buy this Image?	购买这张图片？
+Character facing direction	Character facing direction
+Chaser caught Player	Chaser caught Player
+Chaser disabled	Chaser disabled
+Choice is Null	Choice is Null
+Choose to take Rozenmarine along on a minigame.	选择带罗森玛琳一起参加小游戏。
+Complete all 3 door puzzles and escape the Demon Woods.	解开全部 3 道门谜题，逃出恶魔之林。
+Cover for Rozenmarine.	替罗森玛琳打掩护。
+DISABLING TUTORIAL: Current controller is	DISABLING TUTORIAL: Current controller is
+Defeat the Avantesma.	击败阿凡特斯玛。
+Defeat the Church Boss and escape the Snake Woods.	击败教堂首领，逃出蛇之林。
+Destroys if not verified	Destroys if not verified
+Destroys if not verified, Enables if verified	Destroys if not verified, Enables if verified
+Die from low fullness.	因饱食度耗尽而丧命。
+Die from low health.	因生命值过低而丧命。
+Die from low sanity.	因理智崩溃而丧命。
+Divert the villagers' suspicions away from you.	把村民的疑心从你身上引开。
+Enable to auto calc from route	Enable to auto calc from route
+Enables if verified, Disables if not	Enables if verified, Disables if not
+Escape Mari Lwyd's chase scene in the Crow Woods.	在乌鸦之林逃过玛莉·鲁伊德的追逐。
+Escape the Crow Woods with Apfel.	与阿普费尔一同逃出乌鸦之林。
+Escape the Mari Lwyd's wrath.	逃离玛莉·鲁伊德的怒火。
+Escape the Witch Woods.	逃出女巫之林。
+Facing direction duration	Facing direction duration
+Find a Golden Maiden.	找到一位黄金少女。
+Find all Golden Maidens.	找到全部黄金少女。
+Find the Basket in the Witch Woods.	在女巫之林找到篮子。
+Find your way out of the Demon Woods.	找到离开恶魔之林的路。
+For testing purposes	For testing purposes
+Get S Rank in all minigames	在全部小游戏中获得 S 评级
+Get tried for witchcraft.	因巫术受审。
+Give Muffy's desired item every day for the duration of the week.	整整一周，每天送上玛菲想要的物品。
+Grüne	格吕内
+HIDE textbox	HIDE textbox
+Higher is less sensitivity.	Higher is less sensitivity.
+How many updates before changing the sprite to the next one in rotation.	How many updates before changing the sprite to the next one in rotation.
+If activated will check for less than minimum instead of more than	If activated will check for less than minimum instead of more than
+If it should play only when character is running.	If it should play only when character is running.
+If true, advance week day instead of just daytime.	If true, advance week day instead of just daytime.
+Index must be less or equal	Index must be less or equal
+Instantiates if verified	Instantiates if verified
+Instantiating objects in this way goes against better methods implemented since.Try using onEndUnityEvent or even Actions instead to achieve a better result.	Instantiating objects in this way goes against better methods implemented since.Try using onEndUnityEvent or even Actions instead to achieve a better result.
+Invalid array type.	Invalid array type.
+Invalid offset or length.	Invalid offset or length.
+Is the biggest and also the heaviest of them all - it’d take me twice the time to go to the well and back. It holds twice the water bucket #3 used to, but has a hole the same size as #4’s.	它是所有水桶里最大、也最沉的——提着它去井边再回来，得花上我两倍的时间。它能装下 3 号桶过去两倍的水量，可破洞却和 4 号桶一般大。
+Is the smallest of the bunch and holds only 1L, but at least it has no holes!	它是这群里最小的，只装得下 1L，可至少没破洞！
+Is three times the size of bucket #1, but it’s so worn out I can only use it as a replacement for #1.	它的容量是 1 号桶的三倍，可实在破旧得厉害，我只能拿它顶替 1 号桶。
+Item does not exist, can't remove what is not there	Item does not exist, can't remove what is not there
+Keep these settings? (Will default to previous values in {10f} seconds.)	保留这些设置？（{10f} 秒后将恢复为之前的设定。）
+Leave after attending the village Festival.	参加完村里的庆典后再离开。
+Listen to the Old Hag's story.	听老妪讲故事。
+Max out one relationship. The future seems bright for Elise and her beloved.	将一段关系培养至极致。伊莉丝与心上人的未来一片光明。
+Movement and Input	Movement and Input
+Multi-dimensional arrays not supported.	Multi-dimensional arrays not supported.
+No player movement track in this timeline.	No player movement track in this timeline.
+Non-zero lower bound required.	Non-zero lower bound required.
+Number of frames per Sprite (Rotation Speed)	Number of frames per Sprite (Rotation Speed)
+Old System. Use SceneInteraction instead!	Old System. Use SceneInteraction instead!
+Only applicable if there's on end actions.	Only applicable if there's on end actions.
+Only relevant for the last clip of the track. If true: stays faded when timeline ends.	Only relevant for the last clip of the track. If true: stays faded when timeline ends.
+Percentage per second	Percentage per second
+Perish from low fullness.	因饱食度耗尽而殒命。
+Perish from low health.	因生命值过低而殒命。
+Perish from low sanity.	因理智崩溃而殒命。
+Play list randomly	Play list randomly
+Player escaped Chaser	Player escaped Chaser
+Playing music	Playing music
+Please select 2 buckets!	请选择 2 个水桶！
+Positive for right, negative for left	Positive for right, negative for left
+Prevail against the Crow.	战胜乌鸦。
+Prevail against the Snake..	战胜蛇。
+Quit to Title Screen?	返回标题画面？
+RGB({c.r}, {c.g}, {c.b})	RGB({c.r}, {c.g}, {c.b})
+Receive the Crow's curse.	承受乌鸦的诅咒。
+Receive the Snake's curse.	承受蛇的诅咒。
+Resolve a conflict caused by Rozenmarine (answer one question correctly).	化解罗森玛琳引发的冲突（正确回答一个问题）。
+Resuming map music	Resuming map music
+Resuming music	Resuming music
+Resuming music after text	Resuming music after text
+SHOW textbox	SHOW textbox
+Sacrifice yourself for your beloved.	为你心爱的人牺牲自己。
+Safe zones are added automatically if Parent is assigned	Safe zones are added automatically if Parent is assigned
+Save Apfel from the Crow Woods.	从乌鸦之林救出阿普费尔。
+Save these settings?	保存这些设置？
+Show_static	Show_static
+Specifies which conflit state to verify for, UnResolved (false) means a conflict is active in the current daytime and waiting for player interaction, Resolved (true) means conflict has already been handled.	Specifies which conflit state to verify for, UnResolved (false) means a conflict is active in the current daytime and waiting for player interaction, Resolved (true) means conflict has already been handled.
+Specifies which conflit state to verify for, UnResolved (false) means a conflict is active in the current daytime and waiting for player interaction, Resolved (true) means no conflict was generated or has already been handled.	Specifies which conflit state to verify for, UnResolved (false) means a conflict is active in the current daytime and waiting for player interaction, Resolved (true) means no conflict was generated or has already been handled.
+Spend 500 tiffel or more at the shops.	在商店消费满 500 蒂弗尔。
+Spend 500 tiffel.	消费 500 蒂弗尔。
+Stopping all music	Stopping all music
+Stopping all music immediate	Stopping all music immediate
+Stopping all sounds	Stopping all sounds
+Stopping music	Stopping music
+Stopping music overriden	Stopping music overriden
+Stopping skip DLG/CUT	Stopping skip DLG/CUT
+Successfully bribe Muffy for a whole week.	成功贿赂玛菲整整一周。
+Successfully complete the Village Council event in the Church.	在教堂成功完成村民议事会事件。
+Succumb to the Witch's desire.	屈从于女巫的欲望。
+The activation state, true will set active and false will set innactive	The activation state, true will set active and false will set innactive
+The direction the player should be facing	The direction the player should be facing
+The number of attacks that gets added per wave.	The number of attacks that gets added per wave.
+Timeline choice:	Timeline choice:
+Timeline onEnd	Timeline onEnd
+Toast launched,	Toast launched,
+Toast queued,	Toast queued,
+ToggleAuto {auto}	ToggleAuto {auto}
+Tried to yield Game Controller but there will be nothing to yield to	Tried to yield Game Controller but there will be nothing to yield to
+Uncover Father Hans' sinister plot.	揭穿汉斯神父的阴谋。
+Use this transform to set Rozen's position at the begginning of the cutscene, leave it empty if Rozen is not in the party	Use this transform to set Rozen's position at the begginning of the cutscene, leave it empty if Rozen is not in the party
+Use this transform to set the position of the Player at the begginning of the cutscene, but leave it empty if there's no player movement clips at all!	Use this transform to set the position of the Player at the begginning of the cutscene, but leave it empty if there's no player movement clips at all!
+Uses position coordinates relative to parent by assigning an object to relativePlayerPositon	Uses position coordinates relative to parent by assigning an object to relativePlayerPositon
+Was supposed to hold up to 4L before the termites got to it, but the way it is now it’s losing half as much water as #3.	在白蚁蛀坏之前，它本该能装下 4L，可如今这副模样，漏水的速度是 3 号桶的一半。
+Watch Elise and Freya's happy ending.	观看伊莉丝与芙蕾雅的幸福结局。
+Watch Elise and Lebkuchen's happy ending.	观看伊莉丝与莱布库亨的幸福结局。
+Watch Elise and Rozenmarine's happy ending.	观看伊莉丝与罗森玛琳的幸福结局。
+Watch Elise turn into a Golden Maiden and Game Over.	观看伊莉丝化为黄金少女、迎来游戏结束。
+Watch Elise's final punishment.	观看伊莉丝最终的惩罚。
+Watch Freya/Lebkuchen's betrayal ending.	观看芙蕾雅/莱布库亨的背叛结局。
+Watch Rozenmarine's betrayal ending.	观看罗森玛琳的背叛结局。
+Watch all eleven (11) endings.	观看全部十一（11）个结局。
+Watch all endings.	观看全部结局。
+Watch the Cursed Fang cutscene in the Snake Woods.	观看蛇之林的「诅咒之牙」过场动画。
+Watch the Cursed Memories ending.	观看「诅咒的记忆」结局。
+Watch the Golden Crow cutscene in the Crossroads.	观看十字路口的黄金乌鸦过场动画。
+Watch the Old Hag cutscene after Elise receives her red shoes.	观看伊莉丝得到红鞋后老妪的过场动画。
+Watch the Witch/Bad ending.	观看女巫/坏结局。
+Watch the epilogue cutscene after sacrificing Freya to the Demon.	观看将芙蕾雅献祭给恶魔后的尾声过场动画。
+Watch the epilogue cutscene after sacrificing Lebkuchen to the Demon.	观看将莱布库亨献祭给恶魔后的尾声过场动画。
+Watch the epilogue cutscene after sacrificing Rozenmarine to the Demon.	观看将罗森玛琳献祭给恶魔后的尾声过场动画。
+_wind_speed	_wind_speed
+attack_damage	attack_damage
+close sell	close sell
+death_hunger	death_hunger
+death_sanity	death_sanity
+disable window	disable window
+does not exist	does not exist
+enable window	enable window
+if false will use Rozen as default, if true will search for the current love interest in characters to join party	if false will use Rozen as default, if true will search for the current love interest in characters to join party
+link a scene interaction here if you want to advance to another scene instead of reload	link a scene interaction here if you want to advance to another scene instead of reload
+newBinding == null	newBinding == null
+not enough quantity to remove	not enough quantity to remove
+play until - destination node reached:	play until - destination node reached:
+play until line	play until line
+scroll down	scroll down
+scroll down fast	scroll down fast
+true if event must have played before, false otherwise	true if event must have played before, false otherwise
+x{item.Quantity}	x{item.Quantity}
+{item.Name} x{qty}	{item.Name} x{qty}

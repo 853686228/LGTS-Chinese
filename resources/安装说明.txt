@@ -1,0 +1,47 @@
+Little Goody Two Shoes 简体中文汉化补丁 v0.2.0（UI + 序章试玩版）
+===============================================================
+
+【安装（推荐）】
+1. 关闭游戏。
+2. 解压本压缩包到任意文件夹，双击运行「安装.bat」，按提示确认游戏目录
+   （直接回车 = 默认 Steam 目录
+   C:\Program Files (x86)\Steam\steamapps\common\Little Goody Two Shoes）。
+   如果复制失败，请右键「安装.bat」→ 以管理员身份运行。
+3. 启动游戏，看到中文界面即安装成功。
+
+【手动安装】
+把压缩包内的 winhttp.dll、doorstop_config.ini、BepInEx 文件夹解压到游戏安装目录
+（与 LGTS.exe 同一层）。若 BepInEx 已存在，直接覆盖合并即可。
+
+【卸载】
+运行「卸载.bat」，或手动删除游戏目录下的：
+  winhttp.dll、doorstop_config.ini、.doorstop_version、BepInEx 文件夹
+本补丁不修改游戏本体资源，删除这些文件即可完全恢复原版。
+
+【切回英文 / 设置】
+用记事本打开 BepInEx\config\com.syukuu.lgts.zhcn.cfg，修改：
+  EnableChinese = false    → 恢复英文显示（重启游戏生效）
+  TraceToFile   = true     → 输出调试日志到插件目录（排查问题用）
+
+【本版本内容（试玩版 v0.2.0）】
+- 中文字体：思源宋体 Noto Serif SC（SIL OFL 1.1，随包附带许可）
+- 全部界面文本：菜单、设置、教程、物品、商店、地点、任务、提示、小游戏 HUD 等
+- 开场序章（第 1.5 章）：绘本故事 + 森林场景 + 艾莉丝家全部剧情
+- 周日清晨（第 2.1 章）：卧室 → 走廊 → 客厅 → 谷仓 → 后院 → 前院 → 村庄 → 教堂
+- 开场 PV 字幕 + 绘本旁白字幕
+- 训练/操作提示、角色名与称谓、成就描述等硬编码文本
+
+【已知问题（后续版本处理，详见仓库 TODO.md）】
+- 烘焙在贴图里的英文（绘本装饰字、部分小游戏横幅、物品纸背景等）暂未汉化。
+- 第 2 章及之后的剧情仍为英文原文（不影响流程）。
+- 极少数运行时拼接的提示可能仍为英文。
+- 游戏内暂未做语言切换菜单，切回英文请改配置文件。
+
+【技术信息】
+- 基于 BepInEx 5.4.23.6 + HarmonyX 的运行时汉化，不修改游戏资源文件。
+- 翻译数据外置在 BepInEx\plugins\LGTSChinese\ 下的两个 TSV 中，便于更新。
+- 兼容游戏版本：Steam build 20802495（Unity 2021.3.24f1）。
+
+【致谢与许可】
+BepInEx（LGPL-2.1）、HarmonyX（MIT）、思源宋体 Noto Serif SC（SIL OFL 1.1）。
+本补丁为开源免费作品，仅供学习交流，请支持正版游戏。
